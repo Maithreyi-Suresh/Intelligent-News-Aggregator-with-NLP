@@ -1,4 +1,4 @@
-# Personalized-News-Aggregator-with-Deep-Understanding
+# Intelligent News Aggregator with NLP
  An AI that curates personalized news feeds with summaries, sentiment analysis, and contextual explanations. It could highlight key points, provide historical context, and even suggest similar articles. The AI would use natural language processing to understand the user's interests and biases, providing a balanced view.
 # Personalized News Aggregator
 
